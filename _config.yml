@@ -12,7 +12,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 header_text: 你的城市美食寻觅助手  # Change Blog header text
 header_feature_image: assets/img/pexels/travel.jpeg
 footer_text: >
-  Copyright © 2020 鹅么么科技 版权所有  <a href="http://beian.miit.gov.cn/">（粤ICP备20033703号）</a>
+  Copyright © 2020 深圳市鹅么么科技有限公司 版权所有 ALL Rights Reserved. <a href="http://beian.miit.gov.cn/"> 粤ICP备20033703号 </a>
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
