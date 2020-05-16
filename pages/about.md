@@ -6,9 +6,26 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+#鹅么么
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+深圳市鹅么么科技有限公司（简称：鹅么么）成立于2020年4月。<br/>
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+主营产品是微信小程序「鹅么么美食地图」。<br/>
+
+该产品旨在帮助用户寻找最合适的餐厅。<br/>
+
+产品上线于2020年5月。目前开放地区是深圳和广州。<br/>
+
+更多城市开放进行中……
+
+##团队介绍
+
+我们团队主要来自深圳，来自包括百度、腾讯、阿里、滴滴、电信、华工设计院等知名企业。均主导或参与过大型项目，有丰富的互联网实战经验。
+
+##使命愿景
+
+让「今天吃什么」不再成为困扰。
+
+
+
+
