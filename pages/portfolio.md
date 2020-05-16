@@ -2,7 +2,7 @@
 layout: page
 title : 合作联系 
 permalink: /portfolio/
-subtitle: "Projects I am working on" 
+subtitle: "zhengxu@emmmap.cn" 
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Archive]
 ---
