@@ -28,4 +28,4 @@ gallery_path: "assets/img/pexels"
 
 ## 二维码
 
-![avatar](https://nanae.jaward.cn/blog/qcode.jpg =100*100)
+![avatar](https://nanae.jaward.cn/blog/qcode.jpg)
