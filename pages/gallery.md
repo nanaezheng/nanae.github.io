@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 产品介绍
-subtitle: From the pexels folder
+subtitle: Product Introduction
 permalink: /gallery/
 feature-img: "assets/img/pexels/computer.jpeg"
 gallery_path: "assets/img/pexels"
@@ -28,6 +28,6 @@ gallery_path: "assets/img/pexels"
 
 ![avatar](https://nanae.jaward.cn/blog/uiui.png)
 
-## 二维码
+## 小程序二维码
 
 ![avatar](https://nanae.jaward.cn/blog/qcode.jpg)

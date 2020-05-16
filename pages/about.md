@@ -2,6 +2,7 @@
 layout: page
 title: 关于我们
 permalink: /about/
+subtitle: About Us
 feature-img: "assets/img/pexels/computer.jpeg"
 ---
 
