@@ -3,6 +3,7 @@ layout: page
 title: 产品介绍
 subtitle: From the pexels folder
 permalink: /gallery/
+feature-img: "assets/img/pexels/computer.jpeg"
 gallery_path: "assets/img/pexels"
 ---
 
