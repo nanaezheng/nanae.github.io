@@ -6,7 +6,6 @@ permalink: /gallery/
 gallery_path: "assets/img/pexels"
 ---
 
-# 鹅么么美食地图
 
 ##概述
 
