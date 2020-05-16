@@ -13,6 +13,7 @@ header_text: 你的城市美食寻觅助手  # Change Blog header text
 header_feature_image: assets/img/pexels/travel.jpeg
 footer_text: >
   Copyright © 2020 鹅么么科技 版权所有 （粤ICP备20033703号）
+url: "http://beian.miit.gov.cn/"
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
