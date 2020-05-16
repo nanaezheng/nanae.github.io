@@ -1,24 +1,27 @@
 ---
 layout: post
-title: Color Post
-tags: [Test, Color, Markdown]
+title: 关于鹅么么美食地图
 color: brown
-author: sylhare
+author: emmmap
 excerpt_separator: <!--more-->
 ---
 
-# What a colorful post!
+# 鹅么么美食地图
 
-This is an idea that came from [xukimseven/HardCandy-Jekyll](https://github.com/xukimseven/HardCandy-Jekyll) 
-looking at this cheerful and colorful them, I wanted to enable something similar for mine.
-
-You can go fork and star hers too! 😉
+鹅么么美食地图是一款基于微信小程序的产品。
+它旨在帮助用户寻觅城市间的优质餐厅。
+它通过与用户的简单互动，确定用餐场景。
+根据用餐场景和具体需求，为用户推荐当前距离最近，且最合适的餐厅。
 
 <!--more-->
 
-## How does it work?
+## 如何帮我选择餐馆
 
-Basically you need to add just one thing, the color:
+① 打开微信，搜索「鹅么么美食地图」小程序
+② 进入应用，简单回答四个小问题
+③ 根据推荐，确定你最想去的餐厅
+④ 到店签到，打卡，完成~
+
 
 ```yml
 ---
