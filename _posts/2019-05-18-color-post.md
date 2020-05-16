@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我们的产品
+title: 「产品发布」鹅么么美食地图v1.0.0
 color: brown
 author: emmmap
 excerpt_separator: <!--more-->
