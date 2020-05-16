@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallery
+title: 产品介绍
 subtitle: From the pexels folder
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
