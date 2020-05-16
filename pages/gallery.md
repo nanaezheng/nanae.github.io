@@ -7,7 +7,7 @@ gallery_path: "assets/img/pexels"
 ---
 
 
-##概述
+## 概述
 
 鹅么么美食地图是一款基于微信小程序的产品。<br/>
 它旨在帮助用户寻觅城市间的优质餐厅。<br/>
@@ -28,4 +28,4 @@ gallery_path: "assets/img/pexels"
 
 ## 二维码
 
-![avatar](https://nanae.jaward.cn/blog/qcode.jpg)
+![avatar](https://nanae.jaward.cn/blog/qcode.jpg =100*100)
